@@ -1,0 +1,17 @@
+20221219	14:22:58	de6681f2-79ec-43be-aaee-7ac8254a5852	Error: Not Allowed by CORS	OPTIONS	/	https://www.google.com
+20221219	14:22:58	e559364e-a32c-4849-9b4c-5fa19a13e9b0	Error: Not Allowed by CORS	GET	/	https://www.google.com
+20221219	14:23:26	c7c2960d-3fa7-4130-99a7-b2c9904f66fc	Error: Not Allowed by CORS	OPTIONS	/	https://www.google.com
+20221219	14:23:26	be9be529-b60f-4152-ac71-635c003adbb4	Error: Not Allowed by CORS	GET	/	https://www.google.com
+20221219	14:24:06	34416505-51e3-4bb7-b7cd-f77c86853ccc	Error: Not Allowed by CORS	OPTIONS	/	https://www.google.com
+20221219	14:24:06	19b30d8c-6c65-4a50-adbb-efe7bfc8d3bb	Error: Not Allowed by CORS	GET	/	https://www.google.com
+20221219	14:24:16	b2d77f17-12e9-45d1-a786-b47959661e93	Error: Not Allowed by CORS	OPTIONS	/	https://www.google.com
+20221219	14:24:16	42956b87-e862-4ebc-a040-e3c3bca0b9fc	Error: Not Allowed by CORS	GET	/	https://www.google.com
+20221220	10:14:05	7d7e7993-a764-42b5-8532-fe7dd31b36fa	ValidationError: User validation failed: password: Cast to string failed for value "Promise { <pending> }" (type Promise) at path "password"	POST	/users	undefined
+20221220	10:14:20	db622b84-6cad-4612-a6c8-c693763f59bb	ValidationError: User validation failed: password: Cast to string failed for value "Promise { <pending> }" (type Promise) at path "password"	POST	/users	undefined
+20221220	10:19:21	a5e4ac5a-c7b1-43bf-b614-fb2b087187e4	SyntaxError: Expected double-quoted property name in JSON at position 141	PATCH	/users	undefined
+20221220	10:21:11	5b9d1fa0-4426-4bf1-8f45-1a441ff86b81	SyntaxError: Unexpected token '}', ..." "_id": 
+}" is not valid JSON	GET	/users	undefined
+20221220	10:21:23	515caebd-ba65-4d88-a536-42859a558549	SyntaxError: Expected double-quoted property name in JSON at position 141	GET	/users	undefined
+20221221	22:17:16	549c522f-7692-4254-a9c9-3bf0ea857071	ValidationError: Note validation failed: user: Cast to ObjectId failed for value "Dave Gray" (type string) at path "user" because of "BSONTypeError"	POST	/notes	undefined
+20221222	16:14:46	5b844a3b-a4db-4959-adc1-c2c23a927821	Error: secretOrPrivateKey must have a value	POST	/auth	undefined
+20221222	16:15:23	91e4b60b-12c7-45ba-a718-f97199ded990	Error: secretOrPrivateKey must have a value	POST	/auth	undefined
